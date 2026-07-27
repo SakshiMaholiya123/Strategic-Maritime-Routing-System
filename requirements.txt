@@ -1,0 +1,34 @@
+# Data Processing
+pandas
+numpy
+faker
+openpyxl
+
+# Environment Variables
+python-dotenv
+
+# PostgreSQL
+sqlalchemy
+psycopg2-binary
+
+# FastAPI
+fastapi
+uvicorn
+
+# Streamlit
+streamlit
+
+# CrewAI
+crewai
+crewai-tools
+
+# LangChain & RAG
+langchain
+langchain-community
+langchain-cohere
+chromadb
+pymupdf
+
+# Utilities
+pydantic
+requests

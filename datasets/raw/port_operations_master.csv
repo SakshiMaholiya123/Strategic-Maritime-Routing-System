@@ -1,0 +1,301 @@
+Port_ID,Port_Name,Country,Port_Type,Port_Capacity_Tons,Avg_Vessel_Wait_Time_Hours,Port_Utilization_Percent,Active_Vessels,Weather_Disruption_Score,Labor_Availability_Percent,Monthly_Port_Revenue_USD,Operational_Status,Port_Manager,Last_Inspection_Date
+PORT007,Singapore Port,Germany,LNG Terminal,394138,43.17,53.41,130,1.52,72.37,15856508.91,Delayed,Manager_46,2026-04-06
+PORT020,Hamad Port,China,LNG Terminal,368277,41.57,43.0,15,3.03,73.71,15208535.83,Delayed,Manager_32,2026-06-12
+PORT015,Nhava Sheva,UAE,LNG Terminal,373412,23.04,77.12,60,2.18,79.54,28601157.62,Normal,Manager_55,2026-03-20
+PORT011,Khor Fakkan,Iraq,Oil Terminal,481459,19.99,53.03,87,4.59,76.85,6877730.96,Delayed,Manager_96,2026-01-05
+PORT008,Rotterdam Hub,India,Oil Terminal,238456,14.56,50.44,141,9.3,92.71,45922792.84,Normal,Manager_5,2026-03-01
+PORT007,Dammam Port,China,Oil Terminal,81653,23.93,45.14,103,5.25,52.47,36312102.12,Normal,Manager_36,2026-04-30
+PORT019,Jebel Ali,Saudi Arabia,Oil Terminal,207729,4.04,45.99,77,1.12,91.67,20670835.91,Normal,Manager_49,2026-02-15
+PORT011,Singapore Port,Oman,LNG Terminal,483168,41.2,73.91,119,3.54,92.2,8772583.08,Normal,Manager_58,2026-05-14
+PORT011,Jebel Ali,Saudi Arabia,LNG Terminal,465396,3.63,79.92,11,1.4,64.25,44217616.32,Critical,Manager_39,2026-02-25
+PORT004,Tianjin Port,UAE,Container Port,278504,17.14,63.05,84,1.33,73.14,41365126.41,Normal,Manager_80,2026-04-20
+PORT008,Nhava Sheva,Saudi Arabia,Container Port,171829,44.85,67.83,148,3.48,71.93,36364356.08,Normal,Manager_97,2026-06-06
+PORT003,Ruwais Port,Iraq,Oil Terminal,178377,35.82,79.79,101,3.48,60.93,14305805.32,Normal,Manager_85,2026-04-14
+PORT002,Shanghai Port,Germany,LNG Terminal,51622,14.94,41.01,8,8.08,69.84,20719885.23,Normal,Manager_61,2026-03-18
+PORT012,Hamburg Port,Singapore,LNG Terminal,98756,13.62,58.74,8,9.77,52.22,6034664.37,Normal,Manager_9,2026-05-26
+PORT006,Qingdao Port,Oman,LNG Terminal,90809,2.23,96.44,107,4.34,63.89,10262936.71,Normal,Manager_6,2026-01-02
+PORT002,Mundra Port,Saudi Arabia,Container Port,66725,34.0,73.65,44,4.86,90.83,39367815.23,Delayed,Manager_35,2026-01-08
+PORT001,Singapore Port,Saudi Arabia,Container Port,242468,4.24,54.75,21,8.6,64.23,36036897.22,Normal,Manager_39,2026-03-16
+PORT012,Hamad Port,UAE,LNG Terminal,101226,26.5,70.26,105,3.41,90.91,30080802.39,Normal,Manager_22,2026-05-05
+PORT012,Rotterdam Hub,Singapore,LNG Terminal,131182,46.26,59.87,107,2.41,76.58,44890609.57,Normal,Manager_41,2026-02-07
+PORT017,Ras Laffan,Qatar,LNG Terminal,79402,7.04,70.87,128,8.68,93.99,29580059.37,Normal,Manager_5,2026-01-27
+PORT010,Mundra Port,Saudi Arabia,Container Port,54263,43.15,47.29,56,1.42,78.74,23881432.0,Critical,Manager_42,2026-01-20
+PORT016,Shuaiba Port,Iraq,LNG Terminal,277595,47.61,47.7,56,6.58,51.48,17678166.57,Normal,Manager_87,2026-05-20
+PORT015,Ras Laffan,India,LNG Terminal,227900,4.83,48.33,128,6.06,83.77,47081976.78,Normal,Manager_81,2026-02-12
+PORT015,Salalah Port,Oman,Oil Terminal,97924,42.61,94.51,67,4.11,52.24,5053057.61,Normal,Manager_76,2026-01-31
+PORT019,Ruwais Port,Saudi Arabia,Oil Terminal,386326,25.74,82.51,120,3.84,72.53,46613481.23,Delayed,Manager_87,2026-04-01
+PORT012,Nhava Sheva,Iraq,Container Port,274137,43.7,49.42,66,7.95,96.47,41509018.34,Delayed,Manager_80,2026-03-02
+PORT020,Khor Fakkan,Iraq,LNG Terminal,454880,28.28,50.92,11,1.78,58.26,7366566.3,Normal,Manager_67,2026-04-19
+PORT003,Qingdao Port,Oman,LNG Terminal,347881,32.46,82.39,96,3.13,69.49,28684233.53,Delayed,Manager_30,2026-04-01
+PORT005,Khor Fakkan,Qatar,Oil Terminal,413476,27.01,49.06,18,7.59,86.49,43460851.11,Delayed,Manager_57,2026-06-12
+PORT019,Fujairah Port,Iraq,Container Port,401707,41.77,53.6,90,5.93,94.11,29018649.02,Critical,Manager_86,2026-04-05
+PORT007,Busan Port,India,Oil Terminal,210445,35.76,95.87,137,2.15,83.55,45452791.26,Delayed,Manager_73,2026-05-23
+PORT009,Dammam Port,Iraq,Oil Terminal,217469,25.98,54.81,134,8.94,62.91,47206207.02,Normal,Manager_29,2026-05-24
+PORT007,Jebel Ali,Iraq,Oil Terminal,440719,41.94,78.37,66,4.54,83.73,21696841.59,Normal,Manager_37,2026-01-13
+PORT018,Jebel Ali,Iraq,Oil Terminal,151371,13.28,96.76,83,8.45,64.84,19488369.41,Normal,Manager_87,2026-04-23
+PORT004,Busan Port,Germany,LNG Terminal,88709,9.24,61.71,142,8.09,85.92,46879736.54,Normal,Manager_13,2026-02-04
+PORT014,Tianjin Port,Germany,LNG Terminal,242192,9.38,41.02,62,6.62,97.7,34081863.0,Critical,Manager_32,2026-05-29
+PORT018,Salalah Port,Qatar,Oil Terminal,200322,17.36,54.16,124,5.45,86.07,6685111.39,Normal,Manager_46,2026-06-07
+PORT009,Singapore Port,Saudi Arabia,Container Port,71172,12.98,88.19,137,9.82,93.14,3072295.71,Normal,Manager_23,2026-02-17
+PORT002,Sohar Port,Iraq,Container Port,61555,44.78,90.15,69,2.3,50.11,28666823.5,Delayed,Manager_45,2026-02-04
+PORT020,Dammam Port,Singapore,Container Port,103276,6.87,84.57,17,7.53,85.88,46578377.31,Normal,Manager_17,2026-03-27
+PORT015,Hamburg Port,Saudi Arabia,Container Port,107492,34.15,46.56,86,2.72,91.48,42368186.42,Normal,Manager_85,2026-06-15
+PORT007,Basra Oil Terminal,Qatar,Oil Terminal,234074,10.7,86.14,143,4.04,52.03,34116539.58,Normal,Manager_66,2026-06-08
+PORT012,Ruwais Port,Kuwait,LNG Terminal,306010,42.56,93.28,56,3.78,93.58,7816676.6,Normal,Manager_6,2026-06-01
+PORT008,Nhava Sheva,Saudi Arabia,Container Port,401743,46.22,74.84,121,9.52,62.83,13457337.8,Delayed,Manager_18,2026-04-24
+PORT015,Fujairah Port,Saudi Arabia,Oil Terminal,272320,23.41,94.57,30,9.71,83.26,43900050.1,Normal,Manager_94,2026-04-10
+PORT003,Fujairah Port,China,Container Port,467978,42.44,87.96,38,2.65,90.02,9957554.6,Normal,Manager_22,2026-06-09
+PORT014,Basra Oil Terminal,UAE,Container Port,61046,2.24,78.68,56,1.2,83.13,14643531.0,Normal,Manager_33,2026-04-09
+PORT017,Mundra Port,China,Oil Terminal,278071,39.72,73.48,116,7.48,54.61,7350431.91,Normal,Manager_30,2026-01-03
+PORT004,Shuaiba Port,India,LNG Terminal,428165,12.52,60.22,86,4.76,79.82,34129303.34,Delayed,Manager_81,2026-03-26
+PORT018,Sohar Port,Germany,LNG Terminal,471985,43.8,49.24,46,1.8,77.48,47255132.96,Normal,Manager_32,2026-05-05
+PORT008,Ras Laffan,Germany,Oil Terminal,234374,2.05,75.09,25,7.15,95.02,14179433.55,Normal,Manager_42,2026-05-18
+PORT004,Salalah Port,UAE,LNG Terminal,466366,27.58,58.45,46,5.91,70.21,24294923.78,Critical,Manager_78,2026-03-24
+PORT002,Dammam Port,Oman,Oil Terminal,316997,36.81,90.25,145,9.82,66.05,32082647.25,Delayed,Manager_10,2026-01-25
+PORT006,Hamad Port,Oman,Oil Terminal,170900,13.9,97.61,117,3.05,87.49,49973846.16,Normal,Manager_36,2026-03-09
+PORT010,Nhava Sheva,Qatar,Oil Terminal,465008,10.88,83.64,109,4.64,70.63,6135595.18,Normal,Manager_34,2026-03-02
+PORT004,Salalah Port,UAE,LNG Terminal,109129,5.87,45.25,21,5.88,82.3,25429969.18,Delayed,Manager_73,2026-01-29
+PORT018,Qingdao Port,Saudi Arabia,Oil Terminal,287091,17.02,56.74,124,8.13,82.32,19870885.88,Delayed,Manager_28,2026-05-07
+PORT012,Ras Laffan,Oman,Container Port,255550,27.75,46.33,141,5.94,94.4,43425188.1,Normal,Manager_11,2026-01-19
+PORT002,Rotterdam Hub,Iraq,LNG Terminal,294883,7.33,77.73,133,6.52,79.93,24322418.82,Critical,Manager_78,2026-03-15
+PORT010,Singapore Port,Singapore,LNG Terminal,164130,19.33,84.38,134,3.04,75.11,6437898.7,Normal,Manager_39,2026-03-02
+PORT004,Busan Port,Saudi Arabia,LNG Terminal,475203,2.42,93.69,64,8.62,56.94,32086783.12,Normal,Manager_47,2026-06-02
+PORT014,Tianjin Port,India,LNG Terminal,196922,39.66,65.41,52,4.86,55.79,38768250.29,Normal,Manager_19,2026-01-20
+PORT016,Busan Port,Iraq,Container Port,455328,7.91,92.28,33,2.27,57.72,1141181.33,Normal,Manager_15,2026-02-17
+PORT015,Basra Oil Terminal,Iraq,LNG Terminal,171789,15.03,90.92,101,6.98,58.59,43088877.59,Delayed,Manager_28,2026-03-28
+PORT008,Shanghai Port,UAE,LNG Terminal,205130,2.85,58.4,14,2.94,81.89,10115127.0,Normal,Manager_24,2026-06-01
+PORT014,Fujairah Port,Qatar,Oil Terminal,226492,21.88,90.4,62,1.88,87.05,28051398.87,Normal,Manager_72,2026-05-19
+PORT008,Ruwais Port,India,LNG Terminal,88890,40.65,61.79,25,8.76,76.5,21374077.53,Critical,Manager_9,2026-04-20
+PORT016,Ruwais Port,Oman,Container Port,116017,20.04,57.22,32,5.14,91.45,36263037.01,Normal,Manager_47,2026-01-28
+PORT013,Dammam Port,UAE,Container Port,228376,10.26,77.65,38,7.74,99.56,19186919.12,Normal,Manager_33,2026-02-28
+PORT018,Jebel Ali,Oman,Container Port,213993,36.67,59.05,12,3.62,91.0,43618395.66,Normal,Manager_62,2026-05-13
+PORT015,Qingdao Port,UAE,Container Port,182596,38.29,76.55,83,8.08,84.74,36794321.69,Normal,Manager_97,2026-02-20
+PORT013,Nhava Sheva,UAE,LNG Terminal,150424,9.99,75.37,149,2.01,76.62,32737945.38,Normal,Manager_19,2026-05-29
+PORT009,Ras Laffan,UAE,LNG Terminal,327192,37.46,72.68,91,4.2,72.44,40015789.18,Delayed,Manager_67,2026-01-12
+PORT015,Ruwais Port,Qatar,Container Port,478327,45.58,62.06,92,9.8,54.22,37947128.71,Normal,Manager_74,2026-02-19
+PORT013,Qingdao Port,UAE,Container Port,218976,9.65,71.81,73,8.15,69.97,2760995.07,Normal,Manager_40,2026-05-12
+PORT001,Mundra Port,Kuwait,LNG Terminal,367056,37.47,74.6,91,5.48,95.51,20341983.34,Delayed,Manager_47,2026-04-23
+PORT007,Basra Oil Terminal,Singapore,Container Port,84008,34.59,71.65,105,4.06,90.4,46609557.57,Delayed,Manager_65,2026-06-15
+PORT009,Hamad Port,Oman,Oil Terminal,443276,23.78,65.78,12,8.85,60.8,7160489.18,Normal,Manager_29,2026-06-02
+PORT001,Fujairah Port,Saudi Arabia,Container Port,255738,4.66,40.85,81,5.9,73.33,37117730.97,Normal,Manager_50,2026-01-14
+PORT012,Qingdao Port,China,Container Port,133559,5.44,74.05,91,7.83,90.84,48754998.76,Normal,Manager_98,2026-02-01
+PORT008,Busan Port,India,Oil Terminal,105337,41.21,49.77,47,7.79,53.37,3557732.82,Normal,Manager_13,2026-05-19
+PORT011,Basra Oil Terminal,Germany,Oil Terminal,422760,47.55,77.27,133,1.16,69.37,34427500.15,Normal,Manager_1,2026-05-26
+PORT019,Khor Fakkan,Qatar,LNG Terminal,325494,33.1,84.04,113,2.14,92.59,23939552.92,Normal,Manager_34,2026-06-04
+PORT017,Basra Oil Terminal,Saudi Arabia,LNG Terminal,74354,22.51,69.03,21,6.94,70.19,29379587.51,Critical,Manager_93,2026-02-24
+PORT008,Dammam Port,Iraq,Oil Terminal,95186,31.79,71.46,137,2.45,53.88,5181725.49,Normal,Manager_48,2026-04-30
+PORT003,Tianjin Port,Kuwait,Oil Terminal,78145,29.34,95.19,25,3.3,77.13,3107340.64,Delayed,Manager_77,2026-03-16
+PORT003,Khor Fakkan,Germany,LNG Terminal,477236,19.65,89.14,62,9.52,93.09,33676466.37,Normal,Manager_48,2026-01-21
+PORT001,Salalah Port,China,Container Port,136123,5.02,93.03,114,6.04,79.51,41342162.06,Delayed,Manager_49,2026-05-13
+PORT005,Basra Oil Terminal,Saudi Arabia,Oil Terminal,256258,39.79,87.2,143,7.76,61.31,39318751.41,Delayed,Manager_64,2026-03-28
+PORT010,Fujairah Port,Germany,LNG Terminal,266541,19.1,46.32,147,6.02,69.21,27646480.67,Delayed,Manager_61,2026-02-28
+PORT007,Qingdao Port,Saudi Arabia,Container Port,70581,39.66,48.64,139,5.97,72.51,5893474.24,Normal,Manager_29,2026-03-30
+PORT009,Qingdao Port,Kuwait,Oil Terminal,138929,13.62,70.54,32,1.85,78.96,34714177.75,Normal,Manager_39,2026-05-30
+PORT007,Mundra Port,China,Container Port,335195,2.05,54.27,55,4.09,87.97,12852555.29,Normal,Manager_88,2026-03-24
+PORT009,Shuaiba Port,Iraq,LNG Terminal,101474,9.31,67.65,9,3.54,54.94,45642366.44,Delayed,Manager_26,2026-03-06
+PORT008,Ruwais Port,UAE,Oil Terminal,141748,23.55,62.87,9,4.52,94.48,42075002.62,Normal,Manager_17,2026-03-05
+PORT012,Basra Oil Terminal,Oman,Container Port,175995,45.44,71.87,98,8.19,50.62,35759765.39,Normal,Manager_71,2026-03-12
+PORT002,Singapore Port,Iraq,Oil Terminal,295690,6.7,83.32,100,4.35,68.5,47493451.84,Normal,Manager_13,2026-01-04
+PORT001,Basra Oil Terminal,UAE,Container Port,381770,41.29,81.5,12,5.07,51.37,2539669.25,Normal,Manager_69,2026-05-23
+PORT016,Shuaiba Port,Qatar,LNG Terminal,319104,26.24,70.23,68,4.58,69.65,37073820.83,Normal,Manager_26,2026-04-14
+PORT005,Jebel Ali,Singapore,LNG Terminal,478988,39.99,87.7,142,1.84,76.29,17181896.19,Normal,Manager_49,2026-05-30
+PORT003,Salalah Port,India,Oil Terminal,464736,15.73,64.99,42,4.97,75.58,45397228.4,Critical,Manager_67,2026-04-03
+PORT012,Singapore Port,India,Container Port,230553,40.64,92.01,115,2.76,58.28,14067084.64,Delayed,Manager_7,2026-05-22
+PORT008,Busan Port,Oman,Oil Terminal,86408,37.55,44.13,116,2.68,82.29,36517968.47,Critical,Manager_58,2026-05-28
+PORT003,Ruwais Port,China,Oil Terminal,406150,12.58,95.37,85,1.85,52.24,44004703.96,Normal,Manager_49,2026-04-22
+PORT001,Basra Oil Terminal,Kuwait,Container Port,309568,8.04,77.97,140,4.21,88.1,3041184.1,Critical,Manager_53,2026-06-10
+PORT003,Ras Laffan,China,Container Port,369278,41.93,62.04,108,7.82,97.33,20484731.4,Delayed,Manager_65,2026-04-29
+PORT005,Shuaiba Port,Kuwait,Container Port,201563,46.31,51.43,77,3.49,66.99,38353142.57,Delayed,Manager_62,2026-02-28
+PORT015,Qingdao Port,China,LNG Terminal,182413,3.44,67.79,53,3.81,75.86,23291025.59,Delayed,Manager_17,2026-02-12
+PORT014,Qingdao Port,Singapore,Oil Terminal,225695,35.64,51.28,40,6.78,68.95,14095378.86,Normal,Manager_43,2026-01-12
+PORT003,Jebel Ali,Qatar,Oil Terminal,140327,43.84,49.65,130,2.76,50.34,11770462.09,Delayed,Manager_25,2026-02-09
+PORT001,Tianjin Port,Qatar,LNG Terminal,443554,41.44,75.81,72,9.07,69.29,7444395.08,Normal,Manager_3,2026-04-28
+PORT005,Salalah Port,UAE,Container Port,252503,46.37,70.34,82,5.68,89.59,42999348.43,Normal,Manager_79,2026-01-20
+PORT014,Fujairah Port,Germany,LNG Terminal,193326,36.96,78.87,109,5.03,79.8,29192414.76,Normal,Manager_29,2026-06-15
+PORT007,Rotterdam Hub,Qatar,LNG Terminal,232932,22.35,93.92,126,6.02,55.06,4742862.3,Critical,Manager_32,2026-05-11
+PORT009,Hamad Port,Qatar,LNG Terminal,61344,16.35,70.87,123,2.49,92.36,19746435.85,Critical,Manager_26,2026-06-05
+PORT015,Ruwais Port,Iraq,Oil Terminal,444966,16.75,73.69,118,6.52,76.55,19018948.89,Critical,Manager_16,2026-03-31
+PORT015,Ruwais Port,Iraq,LNG Terminal,497972,35.32,45.2,14,4.27,92.09,9905220.34,Delayed,Manager_25,2026-04-04
+PORT010,Busan Port,UAE,Oil Terminal,117957,36.31,81.62,144,9.07,79.01,22339873.65,Normal,Manager_54,2026-01-13
+PORT013,Hamburg Port,Germany,Oil Terminal,155423,11.22,63.19,95,2.52,77.98,17272868.9,Normal,Manager_28,2026-03-07
+PORT019,Basra Oil Terminal,Oman,Oil Terminal,370197,41.93,96.65,6,5.56,55.26,17748381.57,Normal,Manager_73,2026-02-06
+PORT007,Fujairah Port,Iraq,Container Port,196968,34.89,87.74,122,6.38,58.37,37212301.33,Normal,Manager_56,2026-03-07
+PORT017,Hamad Port,Oman,Oil Terminal,236833,27.89,70.3,17,1.3,98.6,11939905.89,Normal,Manager_65,2026-02-05
+PORT020,Ruwais Port,Saudi Arabia,Oil Terminal,243624,23.69,47.15,99,4.27,61.42,32451137.98,Normal,Manager_93,2026-01-26
+PORT004,Ruwais Port,Iraq,Container Port,301147,26.99,89.85,148,7.59,98.87,28961831.57,Normal,Manager_86,2026-03-16
+PORT005,Nhava Sheva,Singapore,Oil Terminal,127454,9.33,86.39,36,8.38,76.6,28836533.1,Critical,Manager_80,2026-04-18
+PORT007,Singapore Port,Germany,LNG Terminal,307594,11.37,50.71,36,3.82,56.79,33487359.96,Normal,Manager_41,2026-02-12
+PORT013,Hamburg Port,UAE,LNG Terminal,402744,6.19,57.13,128,8.19,54.97,27870719.77,Critical,Manager_51,2026-05-30
+PORT015,Fujairah Port,Saudi Arabia,Oil Terminal,434876,9.07,86.02,15,9.71,60.44,44083500.63,Delayed,Manager_71,2026-05-28
+PORT011,Ras Laffan,Germany,Container Port,471151,22.87,50.74,14,8.71,96.28,34103424.51,Normal,Manager_78,2026-01-08
+PORT004,Fujairah Port,Singapore,LNG Terminal,87641,26.4,93.23,19,2.06,70.71,27801199.32,Normal,Manager_29,2026-01-29
+PORT013,Khor Fakkan,Germany,Container Port,79711,2.82,64.62,21,7.66,69.77,41658392.89,Normal,Manager_83,2026-02-09
+PORT007,Jebel Ali,Singapore,Container Port,382486,38.65,45.05,63,3.88,65.66,30701181.68,Normal,Manager_19,2026-06-07
+PORT019,Busan Port,Singapore,LNG Terminal,419040,15.53,87.31,82,9.9,57.35,15266068.14,Delayed,Manager_66,2026-05-08
+PORT002,Rotterdam Hub,Oman,Container Port,193254,43.94,61.66,128,5.37,74.39,11147650.99,Normal,Manager_41,2026-03-25
+PORT010,Hamad Port,China,LNG Terminal,137833,46.51,70.54,118,2.1,56.5,8464061.5,Normal,Manager_45,2026-04-26
+PORT013,Tianjin Port,Saudi Arabia,Container Port,368420,10.53,46.51,26,7.53,91.77,45073305.41,Normal,Manager_15,2026-05-24
+PORT006,Nhava Sheva,Germany,LNG Terminal,331685,23.26,40.15,36,3.91,68.52,35796636.16,Critical,Manager_3,2026-03-03
+PORT012,Singapore Port,Kuwait,Oil Terminal,406601,2.06,77.0,117,9.97,68.74,46931543.47,Delayed,Manager_11,2026-01-07
+PORT012,Jebel Ali,Saudi Arabia,LNG Terminal,94813,29.52,69.88,124,9.82,73.7,30561298.48,Delayed,Manager_53,2026-02-14
+PORT020,Busan Port,China,LNG Terminal,218270,29.94,74.43,126,6.91,72.21,24196643.19,Normal,Manager_46,2026-06-04
+PORT011,Shanghai Port,Saudi Arabia,LNG Terminal,189892,13.39,86.04,36,2.17,99.74,3926107.96,Delayed,Manager_30,2026-03-29
+PORT007,Mundra Port,Qatar,LNG Terminal,336214,27.69,77.5,123,7.18,77.27,33910471.8,Delayed,Manager_57,2026-03-14
+PORT001,Shuaiba Port,Kuwait,Container Port,454338,12.37,50.14,43,1.84,54.41,29528229.23,Delayed,Manager_18,2026-06-12
+PORT001,Rotterdam Hub,China,Oil Terminal,392703,9.4,60.92,16,1.26,80.34,49520235.79,Critical,Manager_51,2026-02-06
+PORT020,Ras Laffan,Oman,LNG Terminal,254615,31.97,92.54,22,8.41,57.58,12718780.11,Normal,Manager_48,2026-04-29
+PORT013,Hamburg Port,Germany,Container Port,91786,16.99,84.66,145,2.89,51.55,27006130.41,Critical,Manager_66,2026-02-26
+PORT009,Shuaiba Port,India,Oil Terminal,276006,29.15,72.28,130,4.41,98.54,32896909.42,Critical,Manager_96,2026-01-08
+PORT003,Shuaiba Port,China,Oil Terminal,280876,21.93,54.83,140,9.76,88.68,32584967.56,Normal,Manager_8,2026-04-05
+PORT007,Singapore Port,UAE,Oil Terminal,449953,47.28,57.52,50,4.03,99.01,28503383.6,Normal,Manager_22,2026-04-27
+PORT006,Basra Oil Terminal,Germany,Oil Terminal,348206,8.88,82.45,108,3.67,73.89,39069472.51,Critical,Manager_6,2026-04-20
+PORT008,Shanghai Port,China,LNG Terminal,497453,23.37,89.37,139,9.26,76.61,11044079.27,Normal,Manager_76,2026-01-20
+PORT009,Hamad Port,Qatar,LNG Terminal,363715,33.3,78.94,90,2.0,58.42,36555732.81,Normal,Manager_57,2026-05-04
+PORT005,Tianjin Port,India,Container Port,337654,20.2,86.95,93,7.84,62.35,31366994.0,Critical,Manager_36,2026-02-22
+PORT001,Hamad Port,Qatar,Container Port,331570,46.84,84.47,26,9.89,91.93,44907680.48,Normal,Manager_79,2026-04-29
+PORT019,Qingdao Port,India,Container Port,87265,35.21,48.68,96,9.11,67.81,42512527.51,Normal,Manager_92,2026-01-12
+PORT010,Shuaiba Port,UAE,Oil Terminal,461066,32.22,64.59,33,6.87,91.34,16442204.92,Normal,Manager_57,2026-01-17
+PORT012,Rotterdam Hub,Germany,Oil Terminal,299321,36.82,48.87,17,3.83,85.45,14535628.92,Normal,Manager_49,2026-03-05
+PORT015,Tianjin Port,Oman,LNG Terminal,116150,45.82,53.64,6,3.29,58.86,49101012.87,Normal,Manager_45,2026-02-11
+PORT009,Mundra Port,Qatar,Oil Terminal,137312,43.76,90.42,33,8.37,75.37,26835993.86,Normal,Manager_82,2026-04-04
+PORT020,Basra Oil Terminal,Qatar,Oil Terminal,139613,35.32,67.43,31,8.92,83.87,45414627.23,Delayed,Manager_66,2026-06-06
+PORT017,Fujairah Port,Singapore,Oil Terminal,387054,36.46,71.05,54,5.73,61.75,9030170.17,Normal,Manager_77,2026-05-27
+PORT017,Tianjin Port,India,Container Port,364519,8.71,50.35,99,3.2,91.53,32498126.83,Delayed,Manager_45,2026-01-11
+PORT020,Ras Laffan,Iraq,Container Port,171826,6.73,58.11,92,2.02,77.24,40683149.18,Delayed,Manager_79,2026-04-08
+PORT012,Hamad Port,Germany,LNG Terminal,85435,28.26,53.35,48,1.78,58.26,47422367.23,Normal,Manager_20,2026-03-12
+PORT007,Shanghai Port,India,Oil Terminal,408587,2.84,51.96,26,7.47,79.15,17529666.91,Delayed,Manager_64,2026-04-18
+PORT002,Tianjin Port,Singapore,Oil Terminal,260017,24.19,77.0,101,4.78,99.99,36524077.33,Normal,Manager_93,2026-02-27
+PORT003,Tianjin Port,Saudi Arabia,LNG Terminal,184055,11.68,54.9,7,9.15,57.53,27401837.44,Normal,Manager_93,2026-02-03
+PORT017,Salalah Port,India,Oil Terminal,201734,17.92,76.66,122,7.66,90.84,3970817.38,Normal,Manager_67,2026-01-20
+PORT005,Qingdao Port,Oman,Oil Terminal,335654,37.69,43.39,23,2.72,60.37,34809987.13,Critical,Manager_83,2026-02-19
+PORT017,Ras Laffan,Germany,Container Port,259259,45.3,48.22,27,6.52,89.12,34814731.35,Normal,Manager_3,2026-04-12
+PORT017,Busan Port,Singapore,LNG Terminal,222070,5.33,55.92,34,4.92,86.73,46599733.44,Normal,Manager_54,2026-05-18
+PORT017,Tianjin Port,Saudi Arabia,LNG Terminal,144071,26.58,74.63,43,6.2,65.02,25368309.86,Delayed,Manager_78,2026-06-09
+PORT002,Shuaiba Port,Kuwait,LNG Terminal,318784,42.6,79.2,112,7.64,66.29,12282295.11,Normal,Manager_64,2026-02-21
+PORT002,Fujairah Port,Singapore,LNG Terminal,356691,5.8,65.68,115,8.26,89.63,3183627.35,Normal,Manager_40,2026-01-15
+PORT005,Shanghai Port,Kuwait,Container Port,366764,39.93,65.86,29,8.59,73.07,21366467.15,Normal,Manager_59,2026-03-25
+PORT001,Busan Port,Germany,Container Port,196389,18.46,82.02,132,3.29,86.54,15793918.3,Delayed,Manager_55,2026-05-11
+PORT001,Fujairah Port,Qatar,Oil Terminal,165608,16.82,40.92,115,1.28,57.4,38293327.0,Delayed,Manager_62,2026-02-06
+PORT019,Shanghai Port,Singapore,Oil Terminal,319708,46.96,59.78,140,7.65,92.63,18359120.48,Normal,Manager_4,2026-05-06
+PORT002,Mundra Port,UAE,Oil Terminal,208417,11.24,87.49,110,1.96,85.54,47504488.62,Normal,Manager_60,2026-02-09
+PORT012,Khor Fakkan,Kuwait,Oil Terminal,163824,33.89,74.99,148,3.83,95.35,48153199.95,Normal,Manager_75,2026-03-13
+PORT006,Salalah Port,Oman,Container Port,304444,39.79,59.56,76,1.03,56.62,31424520.92,Delayed,Manager_95,2026-02-09
+PORT004,Busan Port,UAE,LNG Terminal,129273,3.89,92.52,133,7.14,79.65,46504354.06,Normal,Manager_96,2026-02-25
+PORT011,Dammam Port,China,Container Port,387003,32.84,84.81,112,2.5,79.96,38281862.88,Normal,Manager_91,2026-05-31
+PORT017,Qingdao Port,China,Oil Terminal,261837,45.77,55.36,9,6.9,67.67,27796122.41,Normal,Manager_30,2026-04-14
+PORT006,Basra Oil Terminal,Saudi Arabia,Container Port,160017,7.71,77.43,7,9.93,72.92,9835088.84,Normal,Manager_2,2026-05-19
+PORT005,Hamad Port,Qatar,LNG Terminal,173618,43.23,74.55,136,1.65,51.9,23471299.23,Normal,Manager_62,2026-04-20
+PORT020,Fujairah Port,Germany,LNG Terminal,495609,29.36,63.27,108,1.69,87.29,28482848.7,Normal,Manager_49,2026-05-16
+PORT002,Salalah Port,Singapore,Container Port,175341,30.36,61.28,68,4.06,77.47,43334117.46,Normal,Manager_9,2026-04-03
+PORT006,Shuaiba Port,Iraq,Container Port,341574,30.2,59.93,110,8.8,52.89,24585335.45,Delayed,Manager_92,2026-04-04
+PORT011,Qingdao Port,Oman,Container Port,256604,15.75,75.8,102,2.94,84.04,44986058.96,Normal,Manager_31,2026-02-25
+PORT016,Mundra Port,Kuwait,Oil Terminal,77788,45.02,65.66,14,4.24,73.34,34043099.97,Critical,Manager_98,2026-03-01
+PORT016,Ras Laffan,Germany,Container Port,276577,45.58,88.25,132,1.62,51.72,7712954.09,Normal,Manager_61,2026-05-18
+PORT001,Singapore Port,UAE,Container Port,491759,30.76,78.84,50,7.87,98.48,49754087.1,Delayed,Manager_79,2026-02-08
+PORT009,Mundra Port,China,Container Port,457135,38.04,44.06,70,4.67,97.46,26834400.38,Delayed,Manager_48,2026-01-28
+PORT006,Khor Fakkan,Oman,LNG Terminal,381490,30.16,77.13,116,7.83,75.65,20201056.52,Normal,Manager_25,2026-02-18
+PORT016,Basra Oil Terminal,Iraq,LNG Terminal,408266,24.28,55.73,17,9.13,54.68,33296574.46,Normal,Manager_36,2026-06-13
+PORT003,Hamad Port,Singapore,Oil Terminal,89974,32.4,74.38,141,3.09,87.73,6335772.39,Delayed,Manager_8,2026-05-05
+PORT020,Hamburg Port,Saudi Arabia,Oil Terminal,419453,27.44,79.45,90,8.27,74.6,32190393.69,Normal,Manager_73,2026-01-13
+PORT004,Hamburg Port,Iraq,LNG Terminal,66371,29.48,53.39,94,1.53,65.12,25413564.02,Critical,Manager_58,2026-02-05
+PORT019,Rotterdam Hub,Oman,LNG Terminal,357228,38.06,66.5,62,9.09,74.57,20927029.43,Normal,Manager_45,2026-04-11
+PORT003,Dammam Port,Iraq,LNG Terminal,472845,24.12,51.04,58,6.86,76.12,47697981.04,Critical,Manager_62,2026-01-26
+PORT019,Fujairah Port,Oman,Container Port,232256,3.87,43.04,16,8.87,78.14,26604446.12,Normal,Manager_39,2026-03-27
+PORT020,Shanghai Port,Oman,Container Port,374060,9.54,61.95,18,1.0,72.06,11736756.49,Delayed,Manager_96,2026-01-04
+PORT007,Singapore Port,India,LNG Terminal,123972,22.18,61.05,125,2.52,80.29,23489210.49,Delayed,Manager_58,2026-03-23
+PORT020,Fujairah Port,Kuwait,Container Port,243259,35.34,97.74,125,4.51,95.94,46049982.82,Delayed,Manager_81,2026-06-15
+PORT009,Tianjin Port,China,Container Port,325128,29.29,65.89,24,4.42,68.11,9628678.1,Normal,Manager_99,2026-05-07
+PORT001,Sohar Port,India,Oil Terminal,345183,31.91,59.35,79,3.04,86.29,11483894.9,Delayed,Manager_83,2026-03-29
+PORT008,Mundra Port,Singapore,LNG Terminal,135431,24.05,73.67,148,4.43,94.72,1638448.82,Normal,Manager_64,2026-05-07
+PORT007,Khor Fakkan,India,LNG Terminal,395835,30.32,45.15,74,2.16,72.8,1695312.42,Delayed,Manager_44,2026-04-30
+PORT018,Ras Laffan,Qatar,Container Port,370750,17.13,95.78,60,4.71,72.17,41640189.72,Normal,Manager_29,2026-01-22
+PORT008,Nhava Sheva,Qatar,LNG Terminal,453832,23.63,76.83,105,8.22,80.11,36874007.74,Critical,Manager_59,2026-05-10
+PORT001,Singapore Port,China,Oil Terminal,414809,36.24,83.78,136,5.31,79.57,18397011.77,Normal,Manager_71,2026-01-31
+PORT011,Shanghai Port,Iraq,Oil Terminal,155373,42.1,49.89,115,1.16,90.33,35217246.7,Delayed,Manager_92,2026-04-29
+PORT018,Rotterdam Hub,Kuwait,Oil Terminal,231144,21.95,63.75,129,4.79,73.82,20365090.39,Critical,Manager_9,2026-01-11
+PORT010,Jebel Ali,China,LNG Terminal,336718,4.01,64.52,136,1.24,99.81,47691943.0,Delayed,Manager_92,2026-02-15
+PORT003,Basra Oil Terminal,Oman,LNG Terminal,446646,9.44,87.66,24,9.7,52.97,48385581.39,Normal,Manager_6,2026-04-06
+PORT007,Basra Oil Terminal,UAE,LNG Terminal,300195,2.96,40.07,142,2.15,50.16,20246895.01,Normal,Manager_29,2026-01-10
+PORT016,Sohar Port,Kuwait,LNG Terminal,193748,32.05,57.45,28,7.37,82.01,42856873.41,Critical,Manager_58,2026-05-08
+PORT016,Busan Port,Kuwait,LNG Terminal,454032,17.29,96.91,41,9.75,64.92,38881363.04,Normal,Manager_17,2026-06-01
+PORT020,Nhava Sheva,Oman,Oil Terminal,82733,26.95,67.54,58,8.43,62.02,16189996.92,Normal,Manager_16,2026-04-09
+PORT017,Qingdao Port,Oman,Container Port,266752,24.69,62.19,107,7.29,65.59,12369951.62,Delayed,Manager_87,2026-04-22
+PORT002,Ras Laffan,Saudi Arabia,Oil Terminal,52050,5.75,46.95,42,8.56,62.8,23453497.87,Delayed,Manager_95,2026-03-01
+PORT001,Ruwais Port,China,LNG Terminal,159996,20.55,96.5,8,9.84,51.54,39286093.19,Normal,Manager_3,2026-03-28
+PORT016,Salalah Port,Oman,Oil Terminal,83933,12.15,41.16,61,6.59,98.58,48048221.45,Delayed,Manager_21,2026-05-25
+PORT012,Tianjin Port,Qatar,LNG Terminal,74951,21.25,82.76,24,6.03,61.04,38415374.37,Delayed,Manager_64,2026-03-06
+PORT005,Mundra Port,Singapore,LNG Terminal,82413,11.36,84.58,21,6.65,86.7,42905142.27,Normal,Manager_90,2026-02-26
+PORT005,Ras Laffan,UAE,Oil Terminal,215873,40.66,54.13,123,5.79,88.13,30550151.0,Critical,Manager_36,2026-04-16
+PORT009,Shuaiba Port,China,LNG Terminal,236691,10.01,78.95,75,6.72,96.46,41934983.71,Normal,Manager_86,2026-01-09
+PORT009,Shuaiba Port,Germany,Container Port,476129,46.2,45.39,8,5.05,51.53,39436622.04,Normal,Manager_62,2026-01-22
+PORT003,Sohar Port,Qatar,LNG Terminal,424717,21.13,54.91,18,2.97,93.6,19472291.55,Normal,Manager_42,2026-05-21
+PORT019,Busan Port,Iraq,Container Port,483816,40.93,85.7,7,2.08,76.36,28047524.8,Normal,Manager_76,2026-03-30
+PORT016,Fujairah Port,Oman,Container Port,238847,30.92,90.15,84,1.62,81.63,40432902.98,Critical,Manager_42,2026-01-18
+PORT016,Mundra Port,Germany,LNG Terminal,271888,35.83,75.29,59,3.37,82.22,3256779.98,Normal,Manager_61,2026-04-25
+PORT003,Singapore Port,Oman,Oil Terminal,311044,37.32,69.4,136,1.42,90.99,40595884.84,Normal,Manager_13,2026-05-25
+PORT020,Busan Port,Kuwait,Container Port,271165,25.22,49.24,124,6.1,66.67,9716518.08,Normal,Manager_11,2026-05-23
+PORT001,Mundra Port,Qatar,Oil Terminal,293662,26.99,43.66,28,3.55,86.65,26219497.24,Normal,Manager_54,2026-04-16
+PORT020,Hamad Port,Kuwait,Container Port,216472,25.64,46.82,86,8.42,76.43,40605496.54,Normal,Manager_16,2026-01-15
+PORT011,Ras Laffan,Saudi Arabia,LNG Terminal,447710,29.05,53.19,64,1.67,89.67,13437232.83,Normal,Manager_8,2026-03-04
+PORT017,Ras Laffan,Kuwait,LNG Terminal,261760,3.35,59.82,53,3.04,99.53,13044564.53,Normal,Manager_59,2026-01-13
+PORT008,Rotterdam Hub,Saudi Arabia,Container Port,172744,20.19,62.09,67,7.57,60.03,20735455.52,Critical,Manager_57,2026-03-22
+PORT004,Salalah Port,Saudi Arabia,LNG Terminal,401575,29.88,60.09,114,6.39,99.73,44837497.08,Normal,Manager_40,2026-02-01
+PORT006,Nhava Sheva,Germany,Container Port,255763,29.5,53.87,113,1.58,54.49,1021696.29,Normal,Manager_59,2026-05-17
+PORT008,Shanghai Port,Oman,LNG Terminal,93001,38.48,69.56,80,8.9,50.12,45167771.74,Normal,Manager_2,2026-02-09
+PORT020,Mundra Port,Iraq,Oil Terminal,117364,32.13,87.87,34,8.9,52.21,8536544.21,Delayed,Manager_94,2026-05-28
+PORT003,Ruwais Port,Kuwait,LNG Terminal,437132,47.64,56.22,62,3.97,67.09,49514232.43,Normal,Manager_94,2026-03-23
+PORT016,Hamad Port,Qatar,Oil Terminal,357172,15.06,94.66,121,4.06,81.65,47787502.66,Normal,Manager_76,2026-03-18
+PORT003,Ras Laffan,Saudi Arabia,LNG Terminal,288506,18.52,90.65,104,9.9,53.45,25239084.29,Normal,Manager_10,2026-03-17
+PORT018,Tianjin Port,Oman,Oil Terminal,278731,19.66,49.38,23,6.64,50.28,26123292.14,Critical,Manager_44,2026-02-07
+PORT014,Ruwais Port,UAE,LNG Terminal,480789,23.43,85.6,98,5.78,96.85,24595917.67,Normal,Manager_11,2026-03-12
+PORT018,Sohar Port,China,Oil Terminal,181878,40.46,73.33,117,8.54,91.1,32136738.64,Delayed,Manager_79,2026-02-17
+PORT002,Sohar Port,Germany,Container Port,436487,12.85,72.86,67,3.57,90.46,5445363.41,Normal,Manager_80,2026-01-18
+PORT003,Fujairah Port,Iraq,Container Port,237710,37.7,62.68,120,4.86,94.22,2598279.47,Normal,Manager_81,2026-05-24
+PORT016,Ras Laffan,India,Oil Terminal,178301,20.64,69.07,117,3.41,85.0,3827443.49,Delayed,Manager_90,2026-02-08
+PORT009,Ras Laffan,Germany,LNG Terminal,438439,29.69,63.04,51,8.1,55.22,22773902.11,Normal,Manager_2,2026-03-30
+PORT004,Dammam Port,UAE,Oil Terminal,210829,31.1,71.3,61,6.16,69.96,14501849.02,Critical,Manager_50,2026-03-03
+PORT001,Qingdao Port,China,LNG Terminal,84636,19.15,76.42,122,6.93,86.16,31479938.56,Critical,Manager_12,2026-05-21
+PORT004,Hamburg Port,UAE,Container Port,261169,25.58,79.11,49,3.27,64.02,49629672.18,Critical,Manager_90,2026-04-19
+PORT001,Basra Oil Terminal,Kuwait,LNG Terminal,229352,21.0,70.88,149,2.98,84.37,19929835.48,Normal,Manager_23,2026-03-22
+PORT014,Shuaiba Port,Saudi Arabia,Container Port,336406,5.18,81.84,8,5.4,51.22,29118221.45,Delayed,Manager_18,2026-05-14
+PORT016,Hamad Port,Iraq,LNG Terminal,392579,22.11,48.19,51,7.64,65.31,21364590.9,Normal,Manager_62,2026-03-18
+PORT020,Busan Port,Singapore,LNG Terminal,243283,6.48,52.29,147,5.73,77.46,42516311.72,Critical,Manager_96,2026-03-31
+PORT008,Salalah Port,Saudi Arabia,LNG Terminal,498058,20.63,87.49,51,1.29,81.6,45209583.77,Delayed,Manager_62,2026-01-14
+PORT007,Rotterdam Hub,Singapore,Oil Terminal,440727,29.27,58.71,82,8.82,78.85,43990425.0,Delayed,Manager_38,2026-04-05
+PORT003,Dammam Port,China,Oil Terminal,295596,28.65,41.33,128,1.58,84.89,48744239.7,Normal,Manager_67,2026-02-23
+PORT017,Shanghai Port,Oman,Container Port,481413,32.48,48.92,79,9.6,50.3,2348440.07,Normal,Manager_38,2026-05-12
+PORT001,Tianjin Port,India,Container Port,353988,6.38,52.97,107,1.23,55.05,42150991.95,Normal,Manager_67,2026-02-08
+PORT016,Khor Fakkan,Qatar,Oil Terminal,376898,32.0,95.52,141,7.25,93.45,37836836.48,Delayed,Manager_94,2026-03-13
+PORT012,Dammam Port,Saudi Arabia,Container Port,477373,16.36,73.24,94,1.74,84.09,12206026.06,Normal,Manager_61,2026-01-25
+PORT019,Ruwais Port,Iraq,Oil Terminal,389273,20.36,94.1,148,9.2,55.65,47859684.58,Normal,Manager_1,2026-03-18
+PORT014,Hamad Port,UAE,LNG Terminal,352186,41.47,73.36,73,5.18,92.1,8260718.48,Delayed,Manager_94,2026-06-09
+PORT006,Qingdao Port,Iraq,Container Port,111665,2.42,67.8,65,2.24,62.11,34297946.43,Normal,Manager_45,2026-06-15
+PORT006,Hamburg Port,China,Container Port,296584,29.07,58.2,142,4.07,73.91,12019620.62,Normal,Manager_96,2026-04-30
+PORT013,Fujairah Port,Singapore,Oil Terminal,166953,29.54,75.17,54,2.48,57.26,22137651.79,Normal,Manager_28,2026-02-22
+PORT019,Singapore Port,UAE,Container Port,208448,20.25,48.07,7,2.54,85.51,36238834.95,Normal,Manager_21,2026-06-05
+PORT008,Qingdao Port,Qatar,Container Port,236626,12.9,92.1,111,9.53,83.34,28602907.46,Normal,Manager_13,2026-05-11
+PORT002,Nhava Sheva,Qatar,LNG Terminal,195271,12.8,88.1,117,5.01,60.56,21947589.74,Normal,Manager_27,2026-05-30
+PORT001,Sohar Port,Saudi Arabia,Container Port,168533,42.65,58.42,98,8.1,93.17,16990583.12,Normal,Manager_100,2026-04-06
+PORT015,Fujairah Port,China,LNG Terminal,494164,22.33,95.26,122,6.76,70.07,42143323.13,Normal,Manager_7,2026-06-15
+PORT001,Nhava Sheva,Oman,Oil Terminal,123781,17.22,87.86,85,7.09,64.63,8046903.17,Delayed,Manager_22,2026-03-13
+PORT005,Shuaiba Port,China,Container Port,116262,22.64,78.65,113,2.19,57.62,22075040.95,Normal,Manager_74,2026-03-03
+PORT016,Nhava Sheva,Singapore,LNG Terminal,358744,32.79,47.06,55,3.11,63.31,45284121.02,Normal,Manager_53,2026-01-06
+PORT019,Rotterdam Hub,Iraq,Oil Terminal,126898,8.7,67.74,39,8.08,51.1,42446627.97,Critical,Manager_79,2026-02-01
+PORT004,Basra Oil Terminal,Qatar,Container Port,199369,22.67,69.35,50,9.74,79.16,20646146.36,Normal,Manager_79,2026-04-09
+PORT003,Shanghai Port,Iraq,Oil Terminal,80448,29.04,53.49,73,3.36,92.11,38392309.82,Normal,Manager_4,2026-05-18
+PORT017,Shuaiba Port,Iraq,Container Port,338316,45.63,44.64,97,3.44,77.45,41334880.7,Delayed,Manager_96,2026-05-11
+PORT017,Tianjin Port,Iraq,Oil Terminal,486090,13.62,85.05,68,5.26,60.96,44555483.78,Critical,Manager_23,2026-03-17
+PORT012,Shanghai Port,Qatar,Oil Terminal,57657,18.53,47.08,53,9.85,51.68,27680782.68,Delayed,Manager_70,2026-02-28
+PORT014,Ruwais Port,Germany,LNG Terminal,306689,19.45,74.47,78,3.42,60.73,11018583.42,Delayed,Manager_88,2026-01-31
+PORT006,Salalah Port,Kuwait,Oil Terminal,468641,29.85,94.31,9,4.66,70.81,13510144.75,Delayed,Manager_84,2026-04-03
+PORT003,Ras Laffan,Singapore,Container Port,469901,18.41,90.81,104,9.02,87.98,15489039.03,Normal,Manager_84,2026-03-10
+PORT009,Qingdao Port,Germany,Container Port,424999,26.54,56.11,74,1.03,59.39,30096321.56,Delayed,Manager_76,2026-02-21
+PORT005,Ras Laffan,Singapore,LNG Terminal,467794,37.96,89.38,94,1.36,85.99,2607671.58,Normal,Manager_33,2026-03-30
+PORT017,Khor Fakkan,UAE,Container Port,209903,34.45,40.02,8,6.44,93.35,32166080.97,Critical,Manager_28,2026-05-07
+PORT014,Hamad Port,China,Container Port,57906,22.53,41.03,130,9.17,72.7,18853357.68,Normal,Manager_8,2026-01-31
+PORT003,Sohar Port,China,Container Port,373557,41.75,74.95,43,3.15,91.07,15466848.32,Normal,Manager_1,2026-03-25
+PORT001,Rotterdam Hub,India,Oil Terminal,104028,27.67,61.16,133,5.23,77.73,44095331.97,Normal,Manager_37,2026-05-07
+PORT020,Busan Port,China,Oil Terminal,319431,26.84,62.41,28,5.05,81.85,23540117.38,Delayed,Manager_63,2026-05-30
+PORT001,Basra Oil Terminal,Qatar,Container Port,345804,3.57,72.74,61,5.26,76.31,5657599.23,Normal,Manager_22,2026-05-12
+PORT003,Dammam Port,Oman,LNG Terminal,372648,47.39,51.12,104,6.6,73.16,41510591.63,Critical,Manager_70,2026-01-13
+PORT018,Jebel Ali,Saudi Arabia,Oil Terminal,240792,7.66,52.28,74,5.23,61.73,3334421.61,Delayed,Manager_21,2026-02-14

@@ -1,0 +1,51 @@
+Route_ID,Origin_Port_ID,Destination_Port_ID,Route_Name,Distance_NM,Expected_Days,Risk_Zone,Canal_Used,Weather_Risk
+R001,PORT001,PORT014,Singapore Port → Fujairah Port,10976,10,Low,Cape of Good Hope,Low
+R002,PORT020,PORT014,Khor Fakkan → Shuaiba Port,4157,11,Low,Strait of Hormuz,High
+R003,PORT007,PORT006,Singapore Port → Hamad Port,7412,5,Low,Strait of Hormuz,Low
+R004,PORT014,PORT020,Hamad Port → Dammam Port,4311,35,Low,Suez Canal,High
+R005,PORT011,PORT010,Ras Laffan → Fujairah Port,11147,29,Medium,None,High
+R006,PORT011,PORT008,Dammam Port → Dammam Port,5057,3,Medium,None,Medium
+R007,PORT007,PORT017,Basra Oil Terminal → Fujairah Port,5052,12,Medium,Cape of Good Hope,Low
+R008,PORT018,PORT014,Jebel Ali → Qingdao Port,2019,27,Low,Cape of Good Hope,Medium
+R009,PORT011,PORT008,Qingdao Port → Shanghai Port,10391,19,Low,None,High
+R010,PORT006,PORT004,Shuaiba Port → Salalah Port,2545,27,Low,Cape of Good Hope,High
+R011,PORT014,PORT001,Ruwais Port → Basra Oil Terminal,10633,26,Medium,Strait of Hormuz,Low
+R012,PORT020,PORT016,Dammam Port → Fujairah Port,11334,17,High,Strait of Hormuz,Low
+R013,PORT020,PORT015,Ras Laffan → Ruwais Port,2154,27,High,None,High
+R014,PORT006,PORT020,Shuaiba Port → Ruwais Port,6477,13,High,Cape of Good Hope,Low
+R015,PORT010,PORT002,Shuaiba Port → Mundra Port,11480,20,Low,Suez Canal,High
+R016,PORT005,PORT009,Jebel Ali → Qingdao Port,4510,13,Critical,None,Medium
+R017,PORT005,PORT009,Tianjin Port → Singapore Port,10985,17,High,Strait of Hormuz,Low
+R018,PORT018,PORT003,Jebel Ali → Ruwais Port,1025,23,Critical,Cape of Good Hope,Low
+R019,PORT013,PORT015,Khor Fakkan → Fujairah Port,3956,23,Medium,None,Medium
+R020,PORT013,PORT003,Dammam Port → Basra Oil Terminal,11032,32,Medium,Cape of Good Hope,Low
+R021,PORT009,PORT019,Dammam Port → Busan Port,4540,19,Critical,None,Medium
+R022,PORT002,PORT016,Salalah Port → Hamad Port,4093,11,Critical,Strait of Hormuz,Low
+R023,PORT005,PORT009,Shanghai Port → Shuaiba Port,2296,12,Medium,None,High
+R024,PORT012,PORT001,Nhava Sheva → Sohar Port,1540,27,Critical,None,High
+R025,PORT008,PORT004,Qingdao Port → Shuaiba Port,4619,3,Low,Cape of Good Hope,High
+R026,PORT006,PORT018,Basra Oil Terminal → Rotterdam Hub,6073,10,High,None,Low
+R027,PORT006,PORT014,Basra Oil Terminal → Hamad Port,7933,3,High,Suez Canal,High
+R028,PORT014,PORT020,Fujairah Port → Hamad Port,2243,22,Medium,Suez Canal,Medium
+R029,PORT009,PORT012,Hamad Port → Hamad Port,3146,3,High,None,Low
+R030,PORT016,PORT011,Basra Oil Terminal → Shanghai Port,2332,26,High,Suez Canal,Low
+R031,PORT005,PORT016,Jebel Ali → Mundra Port,4446,8,Low,None,Low
+R032,PORT002,PORT006,Mundra Port → Hamad Port,9227,11,Medium,None,High
+R033,PORT017,PORT006,Shuaiba Port → Khor Fakkan,3205,19,Critical,Suez Canal,High
+R034,PORT010,PORT016,Mundra Port → Basra Oil Terminal,11802,15,High,None,High
+R035,PORT015,PORT005,Ras Laffan → Hamad Port,11147,26,Critical,None,Low
+R036,PORT001,PORT014,Fujairah Port → Fujairah Port,4561,17,Low,Cape of Good Hope,Low
+R037,PORT016,PORT001,Ruwais Port → Basra Oil Terminal,10138,17,Medium,Strait of Hormuz,Low
+R038,PORT009,PORT016,Ras Laffan → Sohar Port,10839,6,Medium,Strait of Hormuz,Low
+R039,PORT017,PORT003,Qingdao Port → Ras Laffan,5913,7,Medium,Cape of Good Hope,High
+R040,PORT005,PORT017,Jebel Ali → Tianjin Port,8453,16,Medium,None,Low
+R041,PORT020,PORT009,Busan Port → Singapore Port,8249,29,Medium,Strait of Hormuz,Low
+R042,PORT016,PORT018,Hamad Port → Sohar Port,11296,30,High,None,Medium
+R043,PORT008,PORT005,Shanghai Port → Mundra Port,8151,6,Low,Strait of Hormuz,Medium
+R044,PORT004,PORT019,Dammam Port → Rotterdam Hub,6059,9,Medium,Suez Canal,Low
+R045,PORT005,PORT003,Shuaiba Port → Dammam Port,9286,31,Medium,None,Low
+R046,PORT007,PORT015,Busan Port → Fujairah Port,5063,32,Medium,Strait of Hormuz,Medium
+R047,PORT003,PORT010,Singapore Port → Hamad Port,9516,9,Low,Strait of Hormuz,Low
+R048,PORT020,PORT003,Mundra Port → Khor Fakkan,4372,13,Critical,None,Medium
+R049,PORT008,PORT003,Ruwais Port → Sohar Port,4002,28,Low,Suez Canal,Medium
+R050,PORT017,PORT016,Shuaiba Port → Basra Oil Terminal,535,27,High,None,Medium
