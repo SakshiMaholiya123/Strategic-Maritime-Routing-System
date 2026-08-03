@@ -1,18 +1,11 @@
 import pandas as pd
 from sqlalchemy import text
-
 from backend.config import Config 
 from backend.database.create_database import engine
 
-# ======================================================
-# Read Dataset
-# ======================================================
 
 ports = pd.read_csv(Config.DATASET_PATH / "ports.csv")
 
-# ======================================================
-# Validate Required Columns
-# ======================================================
 
 required_columns = [
 
@@ -43,9 +36,7 @@ if missing_columns:
         f"Missing columns: {missing_columns}"
     )
 
-# ======================================================
 # Data Cleaning
-# ======================================================
 
 ports = ports[required_columns]
 
@@ -63,10 +54,7 @@ ports = ports.where(
     None
 )
 
-# ======================================================
 # Insert Query
-# ======================================================
-
 query = text("""
 
 INSERT INTO maritime.Dim_Port(
@@ -133,9 +121,7 @@ DO UPDATE SET
 
 """)
 
-# ======================================================
 # Load Data
-# ======================================================
 
 with engine.begin() as connection:
 
@@ -146,10 +132,8 @@ with engine.begin() as connection:
         ports.to_dict(orient="records")
 
     )
-
-# ======================================================
 # Summary
-# ======================================================
+
 
 print("=" * 60)
 print("Dim_Port Loaded Successfully")
