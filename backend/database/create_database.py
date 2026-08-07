@@ -7,9 +7,13 @@ from backend.config import Config
 engine = create_engine(
     Config.DATABASE_URL,
     echo=False,
-    future=True
+    future=True,
+    pool_pre_ping=True,
+    pool_recycle=300,
+     connect_args={
+        "connect_timeout": 10
+    }
 )
-
 
 SessionLocal = sessionmaker(
     autocommit=False,

@@ -149,7 +149,7 @@ insert_columns = [
     "Freight_Cost_USD", "Revenue_Impact_USD", "Disruption_Event", "Cargo_Value_USD", "Shipment_Status"
 ]
 
-records = shipments[insert_columns].to_dict(orient="records")
+records = shipments[insert_columns].to_dict(orient="records") 
 
 with engine.begin() as connection:
     connection.execute(query, records)

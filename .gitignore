@@ -2,6 +2,6 @@ __pycache__
 .env
 .venv
 __init__.py
-backend/knowledge_base/chroma_db/
+
 logs/
 *.log

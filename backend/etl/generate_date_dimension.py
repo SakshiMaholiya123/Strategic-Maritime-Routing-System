@@ -7,6 +7,9 @@ from backend.database.create_database import engine
 START_DATE = "2024-01-01"
 END_DATE = "2030-12-31"
 
+CHUNK_SIZE = 200
+
+
 dates = pd.date_range(
     start=START_DATE,
     end=END_DATE,
@@ -73,15 +76,20 @@ ON CONFLICT (DateKey) DO NOTHING;
 
 """)
 
+rows = date_df.to_dict(orient="records")
+
 rows_inserted = 0
 
-with engine.begin() as connection:
+for i in range(0, len(rows), CHUNK_SIZE):
 
-    for row in date_df.to_dict(orient="records"):
+    chunk = rows[i:i + CHUNK_SIZE]
 
-        connection.execute(insert_query, row)
+    with engine.begin() as connection:
+        connection.execute(insert_query, chunk)
 
-        rows_inserted += 1
+    rows_inserted += len(chunk)
+
+    print(f"Inserted {rows_inserted}/{len(rows)} rows...")
 
 print("=" * 60)
 print("Date Dimension Loaded Successfully")
