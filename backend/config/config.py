@@ -3,24 +3,32 @@ import os
 from dotenv import load_dotenv
 
 
-def find_project_root(marker: str = ".env") -> Path:
+def find_project_root(marker: str = ".env") -> Path | None:
+    """
+    Walk up from this file's location looking for the marker file.
+    Returns None if not found (e.g. on Streamlit Cloud, where secrets
+    are injected directly into os.environ instead of a physical .env file).
+    """
     current = Path(__file__).resolve().parent
     while current != current.parent:
         if (current / marker).exists():
             return current
         current = current.parent
-    raise FileNotFoundError(
-        f"Could not locate '{marker}' in any parent directory of {Path(__file__).resolve()}"
-    )
+    return None
 
 
-# .env lives inside backend/, so we search for it starting from this file
-BACKEND_DIR = find_project_root(marker=".env")
-BASE_DIR = BACKEND_DIR.parent  # project root, one level above backend/
+_project_root = find_project_root(marker=".env")
 
-ENV_PATH = BACKEND_DIR / ".env"
-
-load_dotenv(ENV_PATH)
+if _project_root is not None:
+    # Local development: .env exists, load it
+    BACKEND_DIR = _project_root
+    BASE_DIR = BACKEND_DIR.parent
+    load_dotenv(BACKEND_DIR / ".env")
+else:
+    # Cloud deployment (e.g. Streamlit Cloud): no .env file,
+    # environment variables are already injected by the platform.
+    BACKEND_DIR = Path(__file__).resolve().parent.parent
+    BASE_DIR = BACKEND_DIR.parent
 
 
 class Config:
@@ -31,7 +39,7 @@ class Config:
     DB_USER = os.getenv("DB_USER")
     DB_PASSWORD = os.getenv("DB_PASSWORD")
 
-    DATABASE_URL = (
+    DATABASE_URL = os.getenv("DATABASE_URL") or (
         f"postgresql://{DB_USER}:{DB_PASSWORD}"
         f"@{DB_HOST}:{DB_PORT}/{DB_NAME}"
         f"?sslmode=require"
