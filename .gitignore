@@ -1,7 +1,6 @@
 __pycache__
 .env
 .venv
-__init__.py
 
 logs/
 *.log
