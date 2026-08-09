@@ -36,4 +36,5 @@ requests
 langchain-huggingface
 langchain-chroma
 litellm
-sentence-transformers
+sentence-transformers==5.6.1
+torch==2.5.1
