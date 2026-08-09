@@ -5,3 +5,4 @@ __init__.py
 
 logs/
 *.log
+backend/knowledge_base/chroma_db/
