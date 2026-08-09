@@ -32,3 +32,8 @@ pymupdf
 # Utilities
 pydantic
 requests
+
+langchain-huggingface
+langchain-chroma
+litellm
+sentence-transformers
